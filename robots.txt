@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://wallpaperlist.github.io/sitemap.xml
